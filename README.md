@@ -1,2 +1,3 @@
 # hello-world
-The first Repo
+The first Repo.
+Hello World. Gnel is here. :) 
